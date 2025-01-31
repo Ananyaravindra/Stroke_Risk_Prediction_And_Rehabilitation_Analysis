@@ -75,5 +75,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 Project Maintainer: Ananya Ravindra , Doho Thierry , Adu Mark
-- GitHub: [@Ananyaravindra](https://github.com/Ananyaravindra)
+- GitHub: [@Ananyaravindra](https://github.com/Ananyaravindra) , [@Mark](https://github.com/Markay2) , [@Thierry](leguethierry93@gmail.com)
 - Project Link: [https://github.com/Ananyaravindra/Stroke_Risk_Prediction_And_Rehabilitation_Analysis](https://github.com/Ananyaravindra/Stroke_Risk_Prediction_And_Rehabilitation_Analysis)
